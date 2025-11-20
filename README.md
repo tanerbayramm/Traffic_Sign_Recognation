@@ -23,3 +23,6 @@ python src/model.py
 
 ## 📜 License
 MIT License
+
+## Authors / Contact
+Taner Bayram — tan.bayrammm@gmail.com
