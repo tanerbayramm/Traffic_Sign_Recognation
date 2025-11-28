@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 
-model = YOLO("last.pt")
+model = YOLO("../model/last.pt")
 class_names = model.names
 
 
@@ -83,3 +83,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+
