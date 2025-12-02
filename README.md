@@ -25,4 +25,4 @@ python src/model.py
 MIT License
 
 ## Authors / Contact
-Taner Bayram — tan.bayrammm@gmail.com
+Taner Bayram — [Email](tan.bayrammm@gmail.com)|[Linkedin](www.linkedin.com/in/taner-bayram-966021325)
